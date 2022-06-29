@@ -14,3 +14,5 @@ yarn-error.log
 /.idea
 /.vscode
 apuntes.txt
+/public/docs
+/resources/docs
